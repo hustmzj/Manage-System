@@ -1,0 +1,23 @@
+@import '~antd/dist/antd.css';
+
+.logo {
+  color: white;
+}
+
+.ant-layout-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.userinfo {
+  display: flex;
+}
+
+#username {
+  color: white;
+  margin-right: 20px;
+}
+
+#avator {
+  width: 30px;
+}

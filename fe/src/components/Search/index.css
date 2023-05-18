@@ -1,0 +1,10 @@
+@import '~antd/dist/antd.css';
+
+.ant-btn-primary {
+    margin-right: 20px;
+}
+
+.name-search {
+    width: 240px;
+    margin-right: 20px;
+}

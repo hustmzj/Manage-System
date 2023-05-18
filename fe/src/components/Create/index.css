@@ -1,0 +1,19 @@
+@import '~antd/dist/antd.css';
+
+.add-icon {
+    width: 15px;
+    margin-bottom: 3px;
+    margin-right: 7px;
+}
+
+.ant-form-item-label {
+    text-align: left;
+}
+
+.ant-col-8 {
+    flex: auto;
+}
+
+.ant-col-16 {
+    max-width: 100%;
+}

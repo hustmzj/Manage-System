@@ -1,0 +1,13 @@
+@import '~antd/dist/antd.css';
+
+.ant-layout-sider-children {
+    width:200px
+}
+
+.ant-layout-sider-children > ul {
+    width: 200px !important;
+}
+
+.ant-layout-sider {
+    background: rgb(255, 255, 255);
+}

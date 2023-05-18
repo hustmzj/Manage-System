@@ -1,0 +1,29 @@
+@import '~antd/dist/antd.css';
+
+.ant-table-wrapper {
+    clear: both;
+    max-width: 100%;
+    margin-top: 20px;
+}
+
+.ant-dropdown-trigger {
+    padding: 4px 6px 2px 6px !important;
+}
+
+.ant-tag:hover {
+    cursor: pointer;
+}
+#setting:hover {
+    border-color: #91d5ff;
+    color: #91d5ff;
+}
+
+#setting:active{
+    border-color: #91d5ff;
+    color: #91d5ff;
+}
+
+
+#setting:hover .setting-icon {
+    color: #91d5ff;
+}

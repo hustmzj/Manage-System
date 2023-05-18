@@ -1,0 +1,21 @@
+@import '~antd/dist/antd.css';
+
+.sign-in {
+    margin: auto;
+    width: 400px;
+    margin-top: 200px;
+    padding: 35px;
+    box-shadow: 0 0 3px 0 rgb(65 69 73 / 30%);
+}
+
+.sign-in-title {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.login-form-button {
+    width: 100%;
+    font-weight: bold;
+}
