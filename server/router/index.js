@@ -41,10 +41,9 @@ async function getUserInfo(ctx, next) {
   await next()
 }
 
-async function logoutUser(ctx, next) {
+async function logoutUser(ctx) {
   ctx.session.user = null;
   ctx.body = { code: -2, message: "退出登录" };
-  await next();
 }
 
 async function getUserList(ctx, next) {
